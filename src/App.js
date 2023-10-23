@@ -20,5 +20,5 @@ function App() {
     </div>
   );
 }
-gag
+
 export default App;
